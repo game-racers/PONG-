@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: fde32404f0a35c64aba4ad2d9fb39388
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: 7971630946810828801
+    second: PONG Machine|ArmatureAction
+  - first:
+      74: -1350492704433944347
+    second: PONG Machine|ButtonsAction
+  - first:
+      74: -3477392774655484971
+    second: PONG Machine|CameraAction
+  - first:
+      74: -4326882435857705948
+    second: PONG Machine|Coin ReturnAction
+  - first:
+      74: 391278154715980699
+    second: PONG Machine|Joystick Bottom.001Action
+  - first:
+      74: 990954765825323126
+    second: PONG Machine|Joystick BottomAction
+  - first:
+      74: 7554298375139127503
+    second: PONG Machine|Joystick.001Action
+  - first:
+      74: 2994910535912298269
+    second: PONG Machine|JoystickAction
+  - first:
+      74: 2496302324105357058
+    second: PONG Machine|LED ScreenAction
+  - first:
+      74: -1058857219630134560
+    second: PONG Machine|LED ScreenAction.001
+  - first:
+      74: 7679231063071337027
+    second: PONG Machine|LED ScreenAction.002
+  - first:
+      74: 2099051138252047251
+    second: PONG Machine|LED ScreenAction.003
+  - first:
+      74: 7825793356787527609
+    second: PONG Machine|LightAction
+  - first:
+      74: -4496901697054774429
+    second: PONG Machine|Money PlateAction
+  - first:
+      74: 4997531861783144062
+    second: PONG Machine|Player Input PanelAction
+  - first:
+      74: 2106439607024028258
+    second: PONG Machine|PONG Machine.001Action
+  - first:
+      74: 7228271573927289500
+    second: PONG Machine|PONG MachineAction
+  - first:
+      74: 6635520891203012664
+    second: PONG Machine|Secondary ScreenAction
+  - first:
+      74: 1430661902935060406
+    second: PONG Machine|Secondary ScreenAction.001
+  - first:
+      74: 2851915931462279501
+    second: Player Input Panel|ArmatureAction
+  - first:
+      74: 4788872350622492139
+    second: Player Input Panel|ButtonsAction
+  - first:
+      74: -1830438550849448349
+    second: Player Input Panel|CameraAction
+  - first:
+      74: 1311077422144136114
+    second: Player Input Panel|Coin ReturnAction
+  - first:
+      74: 8982805778051287705
+    second: Player Input Panel|Joystick Bottom.001Action
+  - first:
+      74: -5024801553657736455
+    second: Player Input Panel|Joystick BottomAction
+  - first:
+      74: 5491529510828119646
+    second: Player Input Panel|Joystick.001Action
+  - first:
+      74: 2043914232512722934
+    second: Player Input Panel|JoystickAction
+  - first:
+      74: -560558787436648005
+    second: Player Input Panel|LED ScreenAction
+  - first:
+      74: -6339871786636793283
+    second: Player Input Panel|LED ScreenAction.001
+  - first:
+      74: -7384938326234046386
+    second: Player Input Panel|LED ScreenAction.002
+  - first:
+      74: -3425899982410987662
+    second: Player Input Panel|LED ScreenAction.003
+  - first:
+      74: 1806806873284405092
+    second: Player Input Panel|LightAction
+  - first:
+      74: 3273748633818688372
+    second: Player Input Panel|Money PlateAction
+  - first:
+      74: -4721276459172481928
+    second: Player Input Panel|Player Input PanelAction
+  - first:
+      74: 7714644077827687446
+    second: Player Input Panel|PONG Machine.001Action
+  - first:
+      74: -3709411530419005946
+    second: Player Input Panel|PONG MachineAction
+  - first:
+      74: -5913454067191751499
+    second: Player Input Panel|Secondary ScreenAction
+  - first:
+      74: 6352731714297553866
+    second: Player Input Panel|Secondary ScreenAction.001
+  - first:
+      74: 7654600166006577035
+    second: Joystick|ArmatureAction
+  - first:
+      74: 4532468059665183667
+    second: Joystick|ButtonsAction
+  - first:
+      74: 5877861653305324069
+    second: Joystick|CameraAction
+  - first:
+      74: -4981048821335234222
+    second: Joystick|Coin ReturnAction
+  - first:
+      74: 5501339162995932868
+    second: Joystick|Joystick Bottom.001Action
+  - first:
+      74: -6196412951274705582
+    second: Joystick|Joystick BottomAction
+  - first:
+      74: 4189796785406645545
+    second: Joystick|Joystick.001Action
+  - first:
+      74: -7760431941255256009
+    second: Joystick|JoystickAction
+  - first:
+      74: -6891599279112795840
+    second: Joystick|LED ScreenAction
+  - first:
+      74: 58437769148309929
+    second: Joystick|LED ScreenAction.001
+  - first:
+      74: -7016532665689143747
+    second: Joystick|LED ScreenAction.002
+  - first:
+      74: -8212044550348413969
+    second: Joystick|LED ScreenAction.003
+  - first:
+      74: 7026237849751038055
+    second: Joystick|LightAction
+  - first:
+      74: -8361024509515830364
+    second: Joystick|Money PlateAction
+  - first:
+      74: 6328099319251721384
+    second: Joystick|Player Input PanelAction
+  - first:
+      74: -1154054947927853394
+    second: Joystick|PONG Machine.001Action
+  - first:
+      74: -8035180885002596567
+    second: Joystick|PONG MachineAction
+  - first:
+      74: 3966744699568998195
+    second: Joystick|Secondary ScreenAction
+  - first:
+      74: 758496303148782299
+    second: Joystick|Secondary ScreenAction.001
+  - first:
+      74: 4795416307677676182
+    second: Joystick Bottom|ArmatureAction
+  - first:
+      74: 4441052784998984289
+    second: Joystick Bottom|ButtonsAction
+  - first:
+      74: -4171631567184022365
+    second: Joystick Bottom|CameraAction
+  - first:
+      74: -4415505786861633955
+    second: Joystick Bottom|Coin ReturnAction
+  - first:
+      74: 4391253998031516189
+    second: Joystick Bottom|Joystick Bottom.001Action
+  - first:
+      74: 8833778910279040639
+    second: Joystick Bottom|Joystick BottomAction
+  - first:
+      74: -6150839860407571589
+    second: Joystick Bottom|Joystick.001Action
+  - first:
+      74: -2834075985883431957
+    second: Joystick Bottom|JoystickAction
+  - first:
+      74: -6014637120694288611
+    second: Joystick Bottom|LED ScreenAction
+  - first:
+      74: 8193587349362392726
+    second: Joystick Bottom|LED ScreenAction.001
+  - first:
+      74: 4403582515459272156
+    second: Joystick Bottom|LED ScreenAction.002
+  - first:
+      74: -6027294330353199297
+    second: Joystick Bottom|LED ScreenAction.003
+  - first:
+      74: -3439639620559966104
+    second: Joystick Bottom|LightAction
+  - first:
+      74: 385442561153043483
+    second: Joystick Bottom|Money PlateAction
+  - first:
+      74: 3109598241151197174
+    second: Joystick Bottom|Player Input PanelAction
+  - first:
+      74: -8365979160495741073
+    second: Joystick Bottom|PONG Machine.001Action
+  - first:
+      74: -2628550072871594784
+    second: Joystick Bottom|PONG MachineAction
+  - first:
+      74: 4310676255358386711
+    second: Joystick Bottom|Secondary ScreenAction
+  - first:
+      74: 3471151512360984808
+    second: Joystick Bottom|Secondary ScreenAction.001
+  - first:
+      74: -8140830467074114976
+    second: Joystick.001|ArmatureAction
+  - first:
+      74: -2656033057355226891
+    second: Joystick.001|ButtonsAction
+  - first:
+      74: -3498368521609902753
+    second: Joystick.001|CameraAction
+  - first:
+      74: -4543492706803762998
+    second: Joystick.001|Coin ReturnAction
+  - first:
+      74: -4925967813758966508
+    second: Joystick.001|Joystick Bottom.001Action
+  - first:
+      74: 5974110653324698454
+    second: Joystick.001|Joystick BottomAction
+  - first:
+      74: 5112281157529353283
+    second: Joystick.001|Joystick.001Action
+  - first:
+      74: 768535760085360546
+    second: Joystick.001|JoystickAction
+  - first:
+      74: -8863442327683981547
+    second: Joystick.001|LED ScreenAction
+  - first:
+      74: -8590681708218609761
+    second: Joystick.001|LED ScreenAction.001
+  - first:
+      74: 4920539144709164775
+    second: Joystick.001|LED ScreenAction.002
+  - first:
+      74: 4824716890414858878
+    second: Joystick.001|LED ScreenAction.003
+  - first:
+      74: 1576244227159111492
+    second: Joystick.001|LightAction
+  - first:
+      74: -5427028686533248087
+    second: Joystick.001|Money PlateAction
+  - first:
+      74: 9128895246923604695
+    second: Joystick.001|Player Input PanelAction
+  - first:
+      74: 3279462186135266166
+    second: Joystick.001|PONG Machine.001Action
+  - first:
+      74: 1692159077899659993
+    second: Joystick.001|PONG MachineAction
+  - first:
+      74: 2649415248058101717
+    second: Joystick.001|Secondary ScreenAction
+  - first:
+      74: -1138721375572504343
+    second: Joystick.001|Secondary ScreenAction.001
+  - first:
+      74: 6281617806801171301
+    second: Buttons|ArmatureAction
+  - first:
+      74: -6461472289890733085
+    second: Buttons|ButtonsAction
+  - first:
+      74: -9185057509791538527
+    second: Buttons|CameraAction
+  - first:
+      74: -6626335650256048224
+    second: Buttons|Coin ReturnAction
+  - first:
+      74: 8209134199104729716
+    second: Buttons|Joystick Bottom.001Action
+  - first:
+      74: 8859506989549880368
+    second: Buttons|Joystick BottomAction
+  - first:
+      74: 577934384834420943
+    second: Buttons|Joystick.001Action
+  - first:
+      74: 4419019334393331157
+    second: Buttons|JoystickAction
+  - first:
+      74: -6241390477466075215
+    second: Buttons|LED ScreenAction
+  - first:
+      74: -921034039580356432
+    second: Buttons|LED ScreenAction.001
+  - first:
+      74: 2718442213430342174
+    second: Buttons|LED ScreenAction.002
+  - first:
+      74: 3362364779198860807
+    second: Buttons|LED ScreenAction.003
+  - first:
+      74: 4203682643730271821
+    second: Buttons|LightAction
+  - first:
+      74: 5839590078425191676
+    second: Buttons|Money PlateAction
+  - first:
+      74: -8828185254317708992
+    second: Buttons|Player Input PanelAction
+  - first:
+      74: 8818006690535569944
+    second: Buttons|PONG Machine.001Action
+  - first:
+      74: -670434049044556755
+    second: Buttons|PONG MachineAction
+  - first:
+      74: 7179822594876400569
+    second: Buttons|Secondary ScreenAction
+  - first:
+      74: -3458432720909965607
+    second: Buttons|Secondary ScreenAction.001
+  - first:
+      74: 798633862956509223
+    second: Joystick Bottom.001|ArmatureAction
+  - first:
+      74: -4470787093388706750
+    second: Joystick Bottom.001|ButtonsAction
+  - first:
+      74: 3288590874626598781
+    second: Joystick Bottom.001|CameraAction
+  - first:
+      74: -4698896928940196434
+    second: Joystick Bottom.001|Coin ReturnAction
+  - first:
+      74: -5608722037055470566
+    second: Joystick Bottom.001|Joystick Bottom.001Action
+  - first:
+      74: -5885951724864542744
+    second: Joystick Bottom.001|Joystick BottomAction
+  - first:
+      74: -7667415701626152571
+    second: Joystick Bottom.001|Joystick.001Action
+  - first:
+      74: 8082868192044171082
+    second: Joystick Bottom.001|JoystickAction
+  - first:
+      74: -6950073910207686346
+    second: Joystick Bottom.001|LED ScreenAction
+  - first:
+      74: 7905406717459716607
+    second: Joystick Bottom.001|LED ScreenAction.001
+  - first:
+      74: 2071555601445072105
+    second: Joystick Bottom.001|LED ScreenAction.002
+  - first:
+      74: -8835613950637996827
+    second: Joystick Bottom.001|LED ScreenAction.003
+  - first:
+      74: 4152551471040991802
+    second: Joystick Bottom.001|LightAction
+  - first:
+      74: -5293829359105457454
+    second: Joystick Bottom.001|Money PlateAction
+  - first:
+      74: -1737631550845911664
+    second: Joystick Bottom.001|Player Input PanelAction
+  - first:
+      74: 7271071873947733723
+    second: Joystick Bottom.001|PONG Machine.001Action
+  - first:
+      74: -597484428923800637
+    second: Joystick Bottom.001|PONG MachineAction
+  - first:
+      74: 1574838521058520936
+    second: Joystick Bottom.001|Secondary ScreenAction
+  - first:
+      74: 5760543195460798617
+    second: Joystick Bottom.001|Secondary ScreenAction.001
+  - first:
+      74: 5326878409527638742
+    second: Money Plate|ArmatureAction
+  - first:
+      74: 5045959602794296253
+    second: Money Plate|ButtonsAction
+  - first:
+      74: -1211037908877520024
+    second: Money Plate|CameraAction
+  - first:
+      74: -4318545715758677005
+    second: Money Plate|Coin ReturnAction
+  - first:
+      74: 3989172895987329665
+    second: Money Plate|Joystick Bottom.001Action
+  - first:
+      74: -1826910838914308131
+    second: Money Plate|Joystick BottomAction
+  - first:
+      74: -6336920300004762570
+    second: Money Plate|Joystick.001Action
+  - first:
+      74: -280766219885274085
+    second: Money Plate|JoystickAction
+  - first:
+      74: -5051746745287410161
+    second: Money Plate|LED ScreenAction
+  - first:
+      74: 5119122764176751819
+    second: Money Plate|LED ScreenAction.001
+  - first:
+      74: 6129175855712824081
+    second: Money Plate|LED ScreenAction.002
+  - first:
+      74: 5990071676847804631
+    second: Money Plate|LED ScreenAction.003
+  - first:
+      74: 7492433039033037742
+    second: Money Plate|LightAction
+  - first:
+      74: 4420636601126905491
+    second: Money Plate|Money PlateAction
+  - first:
+      74: 333226046377914460
+    second: Money Plate|Player Input PanelAction
+  - first:
+      74: -3743704013604397802
+    second: Money Plate|PONG Machine.001Action
+  - first:
+      74: -3949287608112067998
+    second: Money Plate|PONG MachineAction
+  - first:
+      74: 354891220847238098
+    second: Money Plate|Secondary ScreenAction
+  - first:
+      74: 7623269126212766378
+    second: Money Plate|Secondary ScreenAction.001
+  - first:
+      74: -5848759869712118040
+    second: Coin Return|ArmatureAction
+  - first:
+      74: 5170001748818179323
+    second: Coin Return|ButtonsAction
+  - first:
+      74: -4295957646616151351
+    second: Coin Return|CameraAction
+  - first:
+      74: -7069374709759957182
+    second: Coin Return|Coin ReturnAction
+  - first:
+      74: 4689041313597500689
+    second: Coin Return|Joystick Bottom.001Action
+  - first:
+      74: 9120339311751694490
+    second: Coin Return|Joystick BottomAction
+  - first:
+      74: 8119531706910384151
+    second: Coin Return|Joystick.001Action
+  - first:
+      74: -8003749451337005026
+    second: Coin Return|JoystickAction
+  - first:
+      74: -8175437585289023934
+    second: Coin Return|LED ScreenAction
+  - first:
+      74: -4304354876699163297
+    second: Coin Return|LED ScreenAction.001
+  - first:
+      74: -2769835193389808315
+    second: Coin Return|LED ScreenAction.002
+  - first:
+      74: 3614548850224711235
+    second: Coin Return|LED ScreenAction.003
+  - first:
+      74: -1362671325072925016
+    second: Coin Return|LightAction
+  - first:
+      74: -5348831689257628394
+    second: Coin Return|Money PlateAction
+  - first:
+      74: 6056601877399325669
+    second: Coin Return|Player Input PanelAction
+  - first:
+      74: 7477512298779710448
+    second: Coin Return|PONG Machine.001Action
+  - first:
+      74: 4604335746114775673
+    second: Coin Return|PONG MachineAction
+  - first:
+      74: -214300991668242937
+    second: Coin Return|Secondary ScreenAction
+  - first:
+      74: -1708810541084310022
+    second: Coin Return|Secondary ScreenAction.001
+  - first:
+      74: -5803434160775632532
+    second: LED Screen|ArmatureAction
+  - first:
+      74: 6635711991766590149
+    second: LED Screen|ButtonsAction
+  - first:
+      74: -9223246105018241405
+    second: LED Screen|CameraAction
+  - first:
+      74: 3450630438404617639
+    second: LED Screen|Coin ReturnAction
+  - first:
+      74: -593161035121550851
+    second: LED Screen|Joystick Bottom.001Action
+  - first:
+      74: 6838908143945915780
+    second: LED Screen|Joystick BottomAction
+  - first:
+      74: -6247374230605342929
+    second: LED Screen|Joystick.001Action
+  - first:
+      74: 4881062625674160603
+    second: LED Screen|JoystickAction
+  - first:
+      74: -747333211848600544
+    second: LED Screen|LED ScreenAction
+  - first:
+      74: 7065648566735574003
+    second: LED Screen|LED ScreenAction.001
+  - first:
+      74: 2257479186050597523
+    second: LED Screen|LED ScreenAction.002
+  - first:
+      74: 8396629850051550808
+    second: LED Screen|LED ScreenAction.003
+  - first:
+      74: -6298600631394080089
+    second: LED Screen|LightAction
+  - first:
+      74: 7926061540983730655
+    second: LED Screen|Money PlateAction
+  - first:
+      74: -6051166683911052202
+    second: LED Screen|Player Input PanelAction
+  - first:
+      74: -9057230519520600320
+    second: LED Screen|PONG Machine.001Action
+  - first:
+      74: 7350701081879837075
+    second: LED Screen|PONG MachineAction
+  - first:
+      74: 901067947315225507
+    second: LED Screen|Secondary ScreenAction
+  - first:
+      74: 127849430300087894
+    second: LED Screen|Secondary ScreenAction.001
+  - first:
+      74: -3528589958804951826
+    second: Secondary Screen|ArmatureAction
+  - first:
+      74: 494025342254565864
+    second: Secondary Screen|ButtonsAction
+  - first:
+      74: -7747508124651873113
+    second: Secondary Screen|CameraAction
+  - first:
+      74: 5783530500178458013
+    second: Secondary Screen|Coin ReturnAction
+  - first:
+      74: -6046925042689142663
+    second: Secondary Screen|Joystick Bottom.001Action
+  - first:
+      74: -2643068618456205228
+    second: Secondary Screen|Joystick BottomAction
+  - first:
+      74: -2281838789360580655
+    second: Secondary Screen|Joystick.001Action
+  - first:
+      74: -557797122717645430
+    second: Secondary Screen|JoystickAction
+  - first:
+      74: -919319524034264020
+    second: Secondary Screen|LED ScreenAction
+  - first:
+      74: -7937751717759971844
+    second: Secondary Screen|LED ScreenAction.001
+  - first:
+      74: -3030872901654751164
+    second: Secondary Screen|LED ScreenAction.002
+  - first:
+      74: 731823874563334326
+    second: Secondary Screen|LED ScreenAction.003
+  - first:
+      74: 7799353781304040534
+    second: Secondary Screen|LightAction
+  - first:
+      74: -1292682936656208401
+    second: Secondary Screen|Money PlateAction
+  - first:
+      74: 7349891909268720549
+    second: Secondary Screen|Player Input PanelAction
+  - first:
+      74: 3360336175256099277
+    second: Secondary Screen|PONG Machine.001Action
+  - first:
+      74: 6991527537944216184
+    second: Secondary Screen|PONG MachineAction
+  - first:
+      74: -5380203036344018600
+    second: Secondary Screen|Secondary ScreenAction
+  - first:
+      74: 3929798183121467031
+    second: Secondary Screen|Secondary ScreenAction.001
+  - first:
+      74: 679722710363544926
+    second: Top Plate|ArmatureAction
+  - first:
+      74: -5970313739393348511
+    second: Top Plate|ButtonsAction
+  - first:
+      74: -657037357818365016
+    second: Top Plate|CameraAction
+  - first:
+      74: 8158092349075995255
+    second: Top Plate|Coin ReturnAction
+  - first:
+      74: -1621493708916397794
+    second: Top Plate|Joystick Bottom.001Action
+  - first:
+      74: -4169670223057848659
+    second: Top Plate|Joystick BottomAction
+  - first:
+      74: -7297696320698777915
+    second: Top Plate|Joystick.001Action
+  - first:
+      74: 7915319886925960558
+    second: Top Plate|JoystickAction
+  - first:
+      74: -3191422967825957084
+    second: Top Plate|LED ScreenAction
+  - first:
+      74: -6210235101065794427
+    second: Top Plate|LED ScreenAction.001
+  - first:
+      74: -4904243628665492299
+    second: Top Plate|LED ScreenAction.002
+  - first:
+      74: -188314660261243199
+    second: Top Plate|LED ScreenAction.003
+  - first:
+      74: -4281988332079215846
+    second: Top Plate|LightAction
+  - first:
+      74: -7521770761922377801
+    second: Top Plate|Money PlateAction
+  - first:
+      74: -6102134334964158443
+    second: Top Plate|Player Input PanelAction
+  - first:
+      74: 3322242565635300234
+    second: Top Plate Movement
+  - first:
+      74: -5893674441969756681
+    second: Top Plate|PONG MachineAction
+  - first:
+      74: 8817405485030156088
+    second: Top Plate|Secondary ScreenAction
+  - first:
+      74: -8777599185257341424
+    second: Top Plate|Secondary ScreenAction.001
+  - first:
+      74: 7550847416700288318
+    second: CRT Screen Arm|ArmatureAction
+  - first:
+      74: 4911776434248723301
+    second: CRT Screen Arm|ButtonsAction
+  - first:
+      74: 2736650205495321847
+    second: CRT Screen Arm|CameraAction
+  - first:
+      74: -7060803413302200030
+    second: CRT Screen Arm|Coin ReturnAction
+  - first:
+      74: -4403245372950284997
+    second: CRT Screen Arm|Joystick Bottom.001Action
+  - first:
+      74: 7779872280585264462
+    second: CRT Screen Arm|Joystick BottomAction
+  - first:
+      74: 3372947603635891663
+    second: CRT Screen Arm|Joystick.001Action
+  - first:
+      74: 8258151131275313806
+    second: CRT Screen Arm|JoystickAction
+  - first:
+      74: 838499517031207822
+    second: CRT Screen Arm|LED ScreenAction
+  - first:
+      74: -182153162519721181
+    second: CRT Screen Arm|LED ScreenAction.001
+  - first:
+      74: -6787786710799906776
+    second: CRT Screen Arm|LED ScreenAction.002
+  - first:
+      74: 1951652877533364122
+    second: CRT Screen Arm|LED ScreenAction.003
+  - first:
+      74: -6705094023408648926
+    second: CRT Screen Arm|LightAction
+  - first:
+      74: 215859619862221508
+    second: CRT Screen Arm|Money PlateAction
+  - first:
+      74: -14727081991199424
+    second: CRT Screen Arm|Player Input PanelAction
+  - first:
+      74: -3167654575383662359
+    second: CRT Screen Arm|PONG Machine.001Action
+  - first:
+      74: 3085629132480158314
+    second: CRT Screen Arm|PONG MachineAction
+  - first:
+      74: 5164019215118576365
+    second: CRT Screen Arm|Secondary ScreenAction
+  - first:
+      74: -1518770978107642059
+    second: CRT Screen Arm|Secondary ScreenAction.001
+  - first:
+      74: 43951944539484827
+    second: Player Arm|ArmatureAction
+  - first:
+      74: -7485131702730051716
+    second: Player Arm|Old Move
+  - first:
+      74: -541019766027961441
+    second: Player Arm|ButtonsAction
+  - first:
+      74: 7254039558129426912
+    second: Player Arm|CameraAction
+  - first:
+      74: -5236994653318093777
+    second: Player Arm|Coin ReturnAction
+  - first:
+      74: -7879667460053548202
+    second: Player Arm|Controls Arm Movement
+  - first:
+      74: 613327510375719279
+    second: Player Arm|Joystick Bottom.001Action
+  - first:
+      74: -6546365819798329122
+    second: Player Arm|Joystick BottomAction
+  - first:
+      74: -7478270540554928515
+    second: Player Arm|Joystick.001Action
+  - first:
+      74: 3153230680503168210
+    second: Player Arm|JoystickAction
+  - first:
+      74: -4983974845616743531
+    second: Player Arm|LED ScreenAction
+  - first:
+      74: -2399630695035814735
+    second: Player Arm|LED ScreenAction.001
+  - first:
+      74: -8518534922468434928
+    second: Player Arm|LED ScreenAction.002
+  - first:
+      74: 8005810929923455810
+    second: Player Arm|LED ScreenAction.003
+  - first:
+      74: 8050996077182215994
+    second: Player Arm|LightAction
+  - first:
+      74: 4178343650644215697
+    second: Player Arm|Money PlateAction
+  - first:
+      74: 2482672278157974498
+    second: Player Arm|Opponent Arm Movement
+  - first:
+      74: -612229892179685061
+    second: Player Arm|Player Arm Movement
+  - first:
+      74: 6829172043277847822
+    second: Player Arm|Player Input PanelAction
+  - first:
+      74: -7817650203786027765
+    second: Player Arm|PONG Machine.001Action
+  - first:
+      74: 2262758120392532916
+    second: Player Arm|PONG MachineAction
+  - first:
+      74: 7169998740505983157
+    second: Player Arm|Secondary ScreenAction
+  - first:
+      74: -2438357640171162344
+    second: Player Arm|Secondary ScreenAction.001
+  - first:
+      74: -2018146046894183697
+    second: CRT Screen Arm.001|ArmatureAction
+  - first:
+      74: -2161407279510818452
+    second: CRT Screen Arm.001|ButtonsAction
+  - first:
+      74: -1391326395917992030
+    second: CRT Screen Arm.001|CameraAction
+  - first:
+      74: 7781420762558645417
+    second: CRT Screen Arm.001|Coin ReturnAction
+  - first:
+      74: -3409698290781332595
+    second: CRT Screen Arm.001|Joystick Bottom.001Action
+  - first:
+      74: 7162613397737796869
+    second: CRT Screen Arm.001|Joystick BottomAction
+  - first:
+      74: 7408209176874827776
+    second: CRT Screen Arm.001|Joystick.001Action
+  - first:
+      74: -6010670353751902237
+    second: CRT Screen Arm.001|JoystickAction
+  - first:
+      74: 3444680363831678933
+    second: CRT Screen Arm.001|LED ScreenAction
+  - first:
+      74: 6676123207014152523
+    second: CRT Screen Arm.001|LED ScreenAction.001
+  - first:
+      74: 6749165500299272442
+    second: CRT Screen Arm.001|LED ScreenAction.002
+  - first:
+      74: 3480549216554558112
+    second: CRT Screen Arm.001|LED ScreenAction.003
+  - first:
+      74: 6651639283409824078
+    second: CRT Screen Arm.001|LightAction
+  - first:
+      74: 465469255716948044
+    second: CRT Screen Arm.001|Money PlateAction
+  - first:
+      74: 7130391790544417066
+    second: CRT Screen Arm.001|Player Input PanelAction
+  - first:
+      74: -1356977453081849765
+    second: CRT Screen Arm.001|PONG Machine.001Action
+  - first:
+      74: 8029772989031541277
+    second: CRT Screen Arm.001|PONG MachineAction
+  - first:
+      74: -5931024245709109094
+    second: CRT Screen Arm.001|Secondary ScreenAction
+  - first:
+      74: 2680381730019956745
+    second: CRT Screen Arm.001|Secondary ScreenAction.001
+  - first:
+      74: 4268901068225898575
+    second: Controls Arm|ArmatureAction
+  - first:
+      74: -2337304521233455776
+    second: Controls Arm|ArmatureAction.002
+  - first:
+      74: 7625316997644096173
+    second: Controls Arm|ButtonsAction
+  - first:
+      74: -129024165780645915
+    second: Controls Arm|CameraAction
+  - first:
+      74: -7739295140541844392
+    second: Controls Arm|Coin ReturnAction
+  - first:
+      74: -1017992186890433165
+    second: Controls Arm|Controls Arm Movement
+  - first:
+      74: -5945722867116016009
+    second: Controls Arm|Joystick Bottom.001Action
+  - first:
+      74: 3590003815177160339
+    second: Controls Arm|Joystick BottomAction
+  - first:
+      74: 2300242457931509671
+    second: Controls Arm|Joystick.001Action
+  - first:
+      74: -2954202478501292027
+    second: Controls Arm|JoystickAction
+  - first:
+      74: -1214356647434679490
+    second: Controls Arm|LED ScreenAction
+  - first:
+      74: -2065761485623521668
+    second: Controls Arm|LED ScreenAction.001
+  - first:
+      74: -4277008331695519637
+    second: Controls Arm|LED ScreenAction.002
+  - first:
+      74: 1116108056013503183
+    second: Controls Arm|LED ScreenAction.003
+  - first:
+      74: -6495934572743475490
+    second: Controls Arm|LightAction
+  - first:
+      74: -568783867067111552
+    second: Controls Arm|Money PlateAction
+  - first:
+      74: -1977162228621801404
+    second: Controls Arm|Opponent Arm Movement
+  - first:
+      74: -3921287661044990137
+    second: Controls Arm|Player Arm Movement
+  - first:
+      74: -7944079584250181805
+    second: Controls Arm|Player Input PanelAction
+  - first:
+      74: -2783524248147235640
+    second: Controls Arm|PONG Machine.001Action
+  - first:
+      74: 8241382569303478282
+    second: Controls Arm|PONG MachineAction
+  - first:
+      74: 2252496178981884593
+    second: Controls Arm|Secondary ScreenAction
+  - first:
+      74: -2217263530062146930
+    second: Controls Arm|Secondary ScreenAction.001
+  - first:
+      74: 2078353549408631665
+    second: CRT Screen Arm.002|ArmatureAction
+  - first:
+      74: -5557769735987712232
+    second: CRT Screen Arm.002|ButtonsAction
+  - first:
+      74: 6121858365771682891
+    second: CRT Screen Arm.002|CameraAction
+  - first:
+      74: -8495954933048573801
+    second: CRT Screen Arm.002|Coin ReturnAction
+  - first:
+      74: 7656480449550396079
+    second: CRT Screen Arm.002|Joystick Bottom.001Action
+  - first:
+      74: -1778864292063071055
+    second: CRT Screen Arm.002|Joystick BottomAction
+  - first:
+      74: 7893008540960502259
+    second: CRT Screen Arm.002|Joystick.001Action
+  - first:
+      74: 4687817130665325512
+    second: CRT Screen Arm.002|JoystickAction
+  - first:
+      74: -8024946662327681281
+    second: CRT Screen Arm.002|LED ScreenAction
+  - first:
+      74: 7942658401222047373
+    second: CRT Screen Arm.002|LED ScreenAction.001
+  - first:
+      74: -3009850623367244903
+    second: CRT Screen Arm.002|LED ScreenAction.002
+  - first:
+      74: 9218427184141685405
+    second: CRT Screen Arm.002|LED ScreenAction.003
+  - first:
+      74: 2389095478664163901
+    second: CRT Screen Arm.002|LightAction
+  - first:
+      74: 4271317551288585118
+    second: CRT Screen Arm.002|Money PlateAction
+  - first:
+      74: 8379460226737461557
+    second: CRT Screen Arm.002|Player Input PanelAction
+  - first:
+      74: -5982257425977924855
+    second: CRT Screen Arm.002|PONG Machine.001Action
+  - first:
+      74: -5412680616973974972
+    second: CRT Screen Arm.002|PONG MachineAction
+  - first:
+      74: -1233341512406028245
+    second: CRT Screen Arm.002|Secondary ScreenAction
+  - first:
+      74: -3198320928392530874
+    second: CRT Screen Arm.002|Secondary ScreenAction.001
+  - first:
+      74: 2459710251597036255
+    second: Opponent Arm|ArmatureAction
+  - first:
+      74: -7354705851997710474
+    second: Opponent Arm|ArmatureAction.002
+  - first:
+      74: -2063014789909352351
+    second: Opponent Arm|ButtonsAction
+  - first:
+      74: -2345285454290586061
+    second: Opponent Arm|CameraAction
+  - first:
+      74: -392486473908328095
+    second: Opponent Arm|Coin ReturnAction
+  - first:
+      74: -8874802816422784596
+    second: Opponent Arm|Controls Arm Movement
+  - first:
+      74: 3588665912228543397
+    second: Opponent Arm|Joystick Bottom.001Action
+  - first:
+      74: 3847844248418369934
+    second: Opponent Arm|Joystick BottomAction
+  - first:
+      74: -1565149620384268811
+    second: Opponent Arm|Joystick.001Action
+  - first:
+      74: 4721405015918732604
+    second: Opponent Arm|JoystickAction
+  - first:
+      74: -1119837155850418239
+    second: Opponent Arm|LED ScreenAction
+  - first:
+      74: -8570995100185513192
+    second: Opponent Arm|LED ScreenAction.001
+  - first:
+      74: 6155773704516868894
+    second: Opponent Arm|LED ScreenAction.002
+  - first:
+      74: -3942862739428809029
+    second: Opponent Arm|LED ScreenAction.003
+  - first:
+      74: -5255571766496966233
+    second: Opponent Arm|LightAction
+  - first:
+      74: -3916423047877416343
+    second: Opponent Arm|Money PlateAction
+  - first:
+      74: -5800173236976800847
+    second: Opponent Arm|Opponent Arm Movement
+  - first:
+      74: 5328042822417396999
+    second: Opponent Arm|Player Arm Movement
+  - first:
+      74: 6631197615436066333
+    second: Opponent Arm|Player Input PanelAction
+  - first:
+      74: -226303266214147977
+    second: Opponent Arm|PONG Machine.001Action
+  - first:
+      74: 8771573616174982587
+    second: Opponent Arm|PONG MachineAction
+  - first:
+      74: -3572475551236104878
+    second: Opponent Arm|Secondary ScreenAction
+  - first:
+      74: -2137971868539141346
+    second: Opponent Arm|Secondary ScreenAction.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Top Plate Movement
+      takeName: Top Plate|PONG Machine.001Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player Arm|Old Move
+      takeName: Player Arm|ArmatureAction.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player Arm|Player Arm Movement
+      takeName: Player Arm|Player Arm Movement
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Controls Arm|Controls Arm Movement
+      takeName: Controls Arm|Controls Arm Movement
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Opponent Arm|Opponent Arm Movement
+      takeName: Opponent Arm|Opponent Arm Movement
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

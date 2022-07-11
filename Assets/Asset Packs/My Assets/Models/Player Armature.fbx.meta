@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: cfe655fa8021325478a230ae8b996d8c
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: 7550847416700288318
+    second: CRT Screen Arm|ArmatureAction
+  - first:
+      74: 4911776434248723301
+    second: CRT Screen Arm|ButtonsAction
+  - first:
+      74: 2736650205495321847
+    second: CRT Screen Arm|CameraAction
+  - first:
+      74: -7060803413302200030
+    second: CRT Screen Arm|Coin ReturnAction
+  - first:
+      74: -4403245372950284997
+    second: CRT Screen Arm|Joystick Bottom.001Action
+  - first:
+      74: 7779872280585264462
+    second: CRT Screen Arm|Joystick BottomAction
+  - first:
+      74: 3372947603635891663
+    second: CRT Screen Arm|Joystick.001Action
+  - first:
+      74: 8258151131275313806
+    second: CRT Screen Arm|JoystickAction
+  - first:
+      74: 838499517031207822
+    second: CRT Screen Arm|LED ScreenAction
+  - first:
+      74: -182153162519721181
+    second: CRT Screen Arm|LED ScreenAction.001
+  - first:
+      74: -6787786710799906776
+    second: CRT Screen Arm|LED ScreenAction.002
+  - first:
+      74: 1951652877533364122
+    second: CRT Screen Arm|LED ScreenAction.003
+  - first:
+      74: -6705094023408648926
+    second: CRT Screen Arm|LightAction
+  - first:
+      74: 215859619862221508
+    second: CRT Screen Arm|Money PlateAction
+  - first:
+      74: -14727081991199424
+    second: CRT Screen Arm|Player Input PanelAction
+  - first:
+      74: -3167654575383662359
+    second: CRT Screen Arm|PONG Machine.001Action
+  - first:
+      74: 3085629132480158314
+    second: CRT Screen Arm|PONG MachineAction
+  - first:
+      74: 5164019215118576365
+    second: CRT Screen Arm|Secondary ScreenAction
+  - first:
+      74: -1518770978107642059
+    second: CRT Screen Arm|Secondary ScreenAction.001
+  - first:
+      74: 43951944539484827
+    second: Player Arm|ArmatureAction
+  - first:
+      74: -7485131702730051716
+    second: Player Arm|ArmatureAction.002
+  - first:
+      74: -541019766027961441
+    second: Player Arm|ButtonsAction
+  - first:
+      74: 7254039558129426912
+    second: Player Arm|CameraAction
+  - first:
+      74: -5236994653318093777
+    second: Player Arm|Coin ReturnAction
+  - first:
+      74: -7879667460053548202
+    second: Player Arm|Controls Arm Movement
+  - first:
+      74: 613327510375719279
+    second: Player Arm|Joystick Bottom.001Action
+  - first:
+      74: -6546365819798329122
+    second: Player Arm|Joystick BottomAction
+  - first:
+      74: -7478270540554928515
+    second: Player Arm|Joystick.001Action
+  - first:
+      74: 3153230680503168210
+    second: Player Arm|JoystickAction
+  - first:
+      74: -4983974845616743531
+    second: Player Arm|LED ScreenAction
+  - first:
+      74: -2399630695035814735
+    second: Player Arm|LED ScreenAction.001
+  - first:
+      74: -8518534922468434928
+    second: Player Arm|LED ScreenAction.002
+  - first:
+      74: 8005810929923455810
+    second: Player Arm|LED ScreenAction.003
+  - first:
+      74: 8050996077182215994
+    second: Player Arm|LightAction
+  - first:
+      74: 4178343650644215697
+    second: Player Arm|Money PlateAction
+  - first:
+      74: 2482672278157974498
+    second: Player Arm|Opponent Arm Movement
+  - first:
+      74: -612229892179685061
+    second: Player Arm|Player Arm Movement
+  - first:
+      74: 6829172043277847822
+    second: Player Arm|Player Input PanelAction
+  - first:
+      74: -7817650203786027765
+    second: Player Arm|PONG Machine.001Action
+  - first:
+      74: 2262758120392532916
+    second: Player Arm|PONG MachineAction
+  - first:
+      74: 7169998740505983157
+    second: Player Arm|Secondary ScreenAction
+  - first:
+      74: -2438357640171162344
+    second: Player Arm|Secondary ScreenAction.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Player Arm|Player Arm Movement
+      takeName: Player Arm|Player Arm Movement
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 87c2e902ba3b9c64cb5ab4b9b05009fb, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
