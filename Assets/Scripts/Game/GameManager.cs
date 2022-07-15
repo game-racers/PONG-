@@ -25,9 +25,7 @@ namespace PONG.Game
         int currentStage = 1;
 
         bool changeDir = false;
-        [SerializeField] bool stage2 = false;
         [SerializeField] int lives2 = 5;
-        [SerializeField] bool stage3 = false;
         [SerializeField] int lives3 = 5;
 
         [SerializeField] GameObject healthPack;
@@ -39,28 +37,17 @@ namespace PONG.Game
 
         [SerializeField] CameraManager cameraManager;
 
-        void Start()
-        {
-            if (stage2 == true)
-            {
-                NewStage();
-            }
+        [SerializeField] GameObject gameOverScreen;
+        [SerializeField] TextMeshProUGUI r1Winner;
+        [SerializeField] TextMeshProUGUI r2Winner;
+        [SerializeField] TextMeshProUGUI r3Winner;
+        [SerializeField] TextMeshProUGUI finalWinner;
+        int playerWins = 0;
 
-            if (stage3 == true)
-            {
-                if (stage2 != true) NewStage();
-                NewStage();
-            }
-        }
 
         private void Update()
         {
             SpawnPack();
-        }
-
-        private void LateUpdate()
-        {
-            //ChangeBallDir();
         }
 
         private void ChangeBallDir()
@@ -95,6 +82,7 @@ namespace PONG.Game
                 if (GameObject.ReferenceEquals(balls[i], ball))
                 {
                     NewRound(i);
+                    return;
                 }
             }
         }
@@ -104,25 +92,49 @@ namespace PONG.Game
             Destroy(balls[ballNum]);
             balls.RemoveAt(ballNum);
             if (balls.Count > 0) return;
-            lives -= 1;
-            livesUI.UpdateLives(lives);
-            if (lives > 0)
+            if (lives <= playerPoints || lives <= opponentPoints)
             {
-                SpawnBall();
-                ChangeBallDir();
+                StartCoroutine(NewStage());
             }
             else
             {
-                StartCoroutine(NewStage());
+                SpawnBall();
+                ChangeBallDir();
             }
         }
 
         private IEnumerator NewStage()
         {
-            if (currentStage == 3) yield break;
+            if (currentStage == 3)
+            {
+                if (playerPoints > opponentPoints)
+                { 
+                    r3Winner.SetText("Player 1 Wins");
+                    playerWins += 1;
+                }
+                else
+                    r3Winner.SetText("Player 1 Loses");
+                if (playerWins >= 2)
+                    finalWinner.SetText("Player 1 Wins!");
+                else
+                    finalWinner.SetText("Player 1 Loses");
+
+                gameOverScreen.SetActive(true);
+                currentStage += 1;
+                Debug.Log("Game Over");
+                yield break;
+            }
+
             currentStage += 1;
             if (currentStage == 2)
             {
+                if (playerPoints > opponentPoints)
+                {
+                    r1Winner.SetText("Player 1 Wins");
+                    playerWins += 1;
+                }
+                else
+                    r1Winner.SetText("Player 1 Loses");
                 packTimer = Time.time + 8f;
                 cameraManager.StartMove(currentStage);
                 arcadeMachine.OpenDoor();
@@ -131,6 +143,13 @@ namespace PONG.Game
             }
             if (currentStage == 3)
             {
+                if (playerPoints > opponentPoints)
+                {
+                    r2Winner.SetText("Player 1 Wins");
+                    playerWins += 1;
+                }
+                else
+                    r2Winner.SetText("Player 1 Loses");
                 arcadeMachine.MovePlayerArm();
                 yield return new WaitForSeconds(4f);
                 arcadeMachine.MoveEnemyArm();

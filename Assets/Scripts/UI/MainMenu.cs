@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
@@ -33,5 +34,10 @@ public class MainMenu : MonoBehaviour
     {
         gameManager.SetR3Lives((int) slider.value);
         lives3.SetText(slider.value.ToString("00"));
+    }
+
+    public void Restart()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
