@@ -2404,7 +2404,7 @@ MonoBehaviour:
   m_MinValue: 1
   m_MaxValue: 10
   m_WholeNumbers: 1
-  m_Value: 5
+  m_Value: 3
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -3170,7 +3170,7 @@ MonoBehaviour:
   m_MinValue: 1
   m_MaxValue: 10
   m_WholeNumbers: 1
-  m_Value: 5
+  m_Value: 3
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -5208,7 +5208,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '05
+  m_text: '03
 
 '
   m_isRightToLeft: 0
@@ -5855,9 +5855,9 @@ MonoBehaviour:
   livesUI: {fileID: 1201864525}
   ballPrefab: {fileID: 1174524379355206586, guid: 815a1368c5f82e649abe10544d173aed, type: 3}
   scoreSound: {fileID: 2089198034}
-  lives: 5
-  lives2: 5
-  lives3: 5
+  lives: 3
+  lives2: 3
+  lives3: 3
   healthPack: {fileID: 7260572874933170011, guid: 4e2ee2109721e1b4ab73177fd0eb6f59, type: 3}
   ballPack: {fileID: 1611457531962606038, guid: d3d1cd0bb7f44614b8b9e1dfcd494b6e, type: 3}
   packTimerMax: 5
@@ -6932,7 +6932,7 @@ MonoBehaviour:
   m_MinValue: 1
   m_MaxValue: 10
   m_WholeNumbers: 1
-  m_Value: 5
+  m_Value: 3
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -11403,9 +11403,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '05
-
-'
+  m_text: 03
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3f3aa420054801441816b1f4be740f3f, type: 2}
   m_sharedMaterial: {fileID: -7819490311926331063, guid: 3f3aa420054801441816b1f4be740f3f, type: 2}
@@ -16278,7 +16276,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '05
+  m_text: '03
 
 '
   m_isRightToLeft: 0
